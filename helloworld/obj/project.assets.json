@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/axl/Documentos/code/helloworld/helloworld.csproj",
+      "projectUniqueName": "/home/axl/Documentos/code/UnitTest/helloworld/helloworld.csproj",
       "projectName": "helloworld",
-      "projectPath": "/home/axl/Documentos/code/helloworld/helloworld.csproj",
+      "projectPath": "/home/axl/Documentos/code/UnitTest/helloworld/helloworld.csproj",
       "packagesPath": "/home/axl/.nuget/packages/",
-      "outputPath": "/home/axl/Documentos/code/helloworld/obj/",
+      "outputPath": "/home/axl/Documentos/code/UnitTest/helloworld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/axl/.nuget/NuGet/NuGet.Config"

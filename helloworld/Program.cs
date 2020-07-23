@@ -9,11 +9,11 @@ namespace helloworld
             Console.WriteLine("Hello World!");
         }
 
-        public int test(int valor){
+        public Boolean test(int valor){
             if(valor>0){
-                return 1;
+                return true;
             }else{
-                return 0;
+                return false;
             }
 
         }

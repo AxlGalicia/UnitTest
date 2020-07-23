@@ -9,7 +9,7 @@ namespace mstest
         public void TestMethod1()
         {
             //Se inicializa la prueba con el parametro esperado en la respuesta del metodo test()
-            var resultado = 1;
+            var resultado = true;
 
             //Se instancia un objeto de la clase Program
             Program o = new Program();

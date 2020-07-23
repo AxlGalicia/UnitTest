@@ -5737,11 +5737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/axl/Documentos/code/mstest/mstest.csproj",
+      "projectUniqueName": "/home/axl/Documentos/code/UnitTest/mstest/mstest.csproj",
       "projectName": "mstest",
-      "projectPath": "/home/axl/Documentos/code/mstest/mstest.csproj",
+      "projectPath": "/home/axl/Documentos/code/UnitTest/mstest/mstest.csproj",
       "packagesPath": "/home/axl/.nuget/packages/",
-      "outputPath": "/home/axl/Documentos/code/mstest/obj/",
+      "outputPath": "/home/axl/Documentos/code/UnitTest/mstest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/axl/.nuget/NuGet/NuGet.Config"
@@ -5755,8 +5755,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/axl/Documentos/code/helloworld/helloworld.csproj": {
-              "projectPath": "/home/axl/Documentos/code/helloworld/helloworld.csproj"
+            "/home/axl/Documentos/code/UnitTest/helloworld/helloworld.csproj": {
+              "projectPath": "/home/axl/Documentos/code/UnitTest/helloworld/helloworld.csproj"
             }
           }
         }
