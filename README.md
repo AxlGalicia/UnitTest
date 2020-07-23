@@ -2,7 +2,7 @@
 
 Se realizo un unit test basico a un proyecto llamado 'helloworld' que contiene un unico metodo que se pondra a prueba, a este metodo le enviamos como argumento un numero entero ya sea positivo o negativo y nos devuelve un true si es mayor a 0 o un false si es menor a 0.
 
-En el unit test el resultado esperado es un 1.
+En el unit test el resultado esperado es un true.
 ### 📌 Requisitos a tomar en cuenta
  - `.NET Core 3.1`
  - `VsCode`
